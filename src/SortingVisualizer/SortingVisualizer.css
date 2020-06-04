@@ -1,0 +1,17 @@
+body
+{  /* border:5px solid black;*/
+
+	background-image:url(https://simplycoding.org/wp-content/uploads/2018/06/AdobeStock_108259589.jpeg);
+}	
+.array-container {
+  position: absolute;
+  left: 100px;
+  right: 100px;
+  /* top: 100px; */
+}
+
+.array-bar {
+  width: 2px;
+  display: inline-block;
+  margin: 0 1px;
+}
